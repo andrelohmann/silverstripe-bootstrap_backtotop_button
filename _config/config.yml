@@ -1,0 +1,5 @@
+name: backtotopbutton
+---
+Controller:
+  extensions:
+    - BackToTopControllerExtension

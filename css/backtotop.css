@@ -1,0 +1,24 @@
+#back-to-top {
+    z-index: 1050;
+}
+#back-to-top span {
+    position:fixed;
+    bottom:30px;
+    right:30px;
+    color:#eee;
+    background-color:rgba(0,0,0,0.3);
+    -webkit-transition:all .25s ease;
+    -moz-transition:all .25s ease;
+    -ms-transition:all .25s ease;
+    -o-transition:all .25s ease;
+    transition:all .25s ease;
+    padding:10px;
+    border-radius:5px;
+    text-align:center;
+}
+#back-to-top span:hover {
+    background-color:rgba(0,0,0,0.7);
+}
+#back-to-top span i {
+    font-size:3em;
+}
