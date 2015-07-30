@@ -1,5 +1,5 @@
 {
-	"name": "andrelohmann-silverstripe/bootstrap-backtotop_button",
+	"name": "andrelohmann-silverstripe/bootstrap_backtotop_button",
 	"type": "silverstripe-module",
         "description": "Silverstripe Bootstrap Back to Top Button",
         "license": "BSD-3-Clause",
