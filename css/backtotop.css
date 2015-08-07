@@ -2,6 +2,7 @@
     z-index: 1050;
 }
 #back-to-top span {
+    z-index: 1050;
     position:fixed;
     bottom:30px;
     right:30px;
